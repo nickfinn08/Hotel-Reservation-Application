@@ -41,27 +41,29 @@ A console-based hotel reservation application built using core Java and Object-O
 ---
 
 ## 📂 Project Structure
-  src/
-  ├── api/
-  │ ├── AdminResource.java
-  │ └── HotelResource.java
-  │
-  ├── Models/
-  │ ├── Customer.java
-  │ ├── Room.java
-  │ ├── FreeRoom.java
-  │ ├── Reservation.java
-  │ ├── IRoom.java
-  │ └── RoomType.java
-  │
-  ├── Service/
-  │ ├── CustomerService.java
-  │ └── ReservationService.java
-  │
-  ├── AdminMenu.java
-  ├── MainMenu.java
-  └── Driver.java
 
+```text
+src/
+├── api/
+│   ├── AdminResource.java
+│   └── HotelResource.java
+│
+├── Models/
+│   ├── Customer.java
+│   ├── Room.java
+│   ├── FreeRoom.java
+│   ├── Reservation.java
+│   ├── IRoom.java
+│   └── RoomType.java
+│
+├── Service/
+│   ├── CustomerService.java
+│   └── ReservationService.java
+│
+├── AdminMenu.java
+├── MainMenu.java
+└── Driver.java
+```
 ## 🔒 Design Highlights
 
 - Singleton Pattern  
