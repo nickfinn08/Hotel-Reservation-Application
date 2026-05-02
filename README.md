@@ -42,7 +42,6 @@ A console-based hotel reservation application built using core Java and Object-O
 
 ## 📂 Project Structure
 src/
-│
 ├── api/
 │ ├── AdminResource.java
 │ └── HotelResource.java
@@ -60,9 +59,8 @@ src/
 │ └── ReservationService.java
 │
 ├── AdminMenu.java
-├── Driver.java
-└── MainMenu.java
-
+├── MainMenu.java
+└── Driver.java
 ---
 
 ## 🔒 Design Highlights
